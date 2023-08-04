@@ -1,4 +1,5 @@
-👋 Hi there, I'm Cat! 🚀
+👋 Hi there, I'm Cat! 
+From Healthcare Data analyst to a Tata-Centered Software Developer 🚀
 
 👨‍💻 **Software Engineer** | 🎨 **UI/UX Enthusiast** | 🌐 **Web Development Ninja**
 
