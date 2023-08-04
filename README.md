@@ -1,5 +1,5 @@
 👋 Hi there, I'm Cat! 
-From Healthcare Data analyst to a Tata-Centered Software Developer 🚀
+Experienced Healthcare Data analyst with a passion for Data-Centered Software Developement 🚀
 
 👨‍💻 **Software Engineer** | 🎨 **UI/UX Enthusiast** | 🌐 **Web Development Ninja**
 
