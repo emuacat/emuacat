@@ -39,12 +39,6 @@ Experienced Healthcare Data Analyst with a Passion for Data-Centered Software De
 ![Azure](https://img.shields.io/badge/-Azure-000?&logo=Microsoft-Azure)
 ![GCP](https://img.shields.io/badge/-GCP-000?&logo=Google-Cloud)
 
-### **Technologies I Love**:
-- **Frontend**: React, Angular, Vue.js
-- **Backend**: Node.js, Express, Django
-- **Databases**: MongoDB, PostgreSQL
-- **Tools**: Git, Docker, AWS
-
 
 🌍 **Community Involvement**:
 - 💬 Ask me about anything tech-related; I'm here to help!
