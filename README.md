@@ -1,5 +1,5 @@
 👋 Hi there, I'm Cat! 
-Experienced Healthcare Data Analyst with a passion for Data-Centered Software Developement 🚀
+Experienced Healthcare Data Analyst with a Passion for Data-Centered Software Developement 🚀
 
 👨‍💻 **Software Engineer** | 🎨 **UI/UX Enthusiast** | 🌐 **Web Development Ninja**
 
