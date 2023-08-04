@@ -21,10 +21,6 @@
 - 🎸 Plays the guitar during the weekends
 - 🌄 Loves hiking and exploring nature
 
-🔗 **Connect with me**:
-- [LinkedIn](https://linkedin.com/in/your-username)
-- [Twitter](https://twitter.com/your-username)
-- [Personal Website](https://your-website.com)
 
 🎉 **Thank you for visiting my GitHub profile! Happy coding!** 🎉
 
