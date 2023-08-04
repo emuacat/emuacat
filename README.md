@@ -12,7 +12,6 @@
 
 🌍 **Community Involvement**:
 - 💬 Ask me about anything tech-related; I'm here to help!
-- 📫 Reach me at: [your-email@example.com]
 - 🧠 Always learning and growing
 - 🤝 Open to collaboration and freelance opportunities
 
